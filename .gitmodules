@@ -1,0 +1,3 @@
+[submodule "fanctrl"]
+	path = fanctrl
+	url = git@github.com:RNLgit/rpi-temp-control.git
